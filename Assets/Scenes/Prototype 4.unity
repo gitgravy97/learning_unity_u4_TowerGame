@@ -368,6 +368,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91fd4fec3bd16b343ba3f9bba58427f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotateCamera
+  rotationSpeed: 80
 --- !u!4 &595960877
 Transform:
   m_ObjectHideFlags: 0
